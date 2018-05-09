@@ -49,8 +49,8 @@ namespace aspnetapp
 {
     context.HttpContext.Response.ContentType = "text/plain";
     await context.HttpContext.Response.WriteAsync(
-        "A status code page, status code is: " + 
-        context.HttpContext.Response.StatusCode); 
+        "A status code page, status code is: " +
+        context.HttpContext.Response.StatusCode);
 });
 
 
@@ -59,10 +59,10 @@ namespace aspnetapp
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
-                
+
             }
             );
-            
+
         }
     }
 }
