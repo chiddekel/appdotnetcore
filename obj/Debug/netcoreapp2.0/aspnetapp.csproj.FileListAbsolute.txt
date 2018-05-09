@@ -1,0 +1,10 @@
+/home/admin/Project/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.deps.json
+/home/admin/Project/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.runtimeconfig.json
+/home/admin/Project/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.runtimeconfig.dev.json
+/home/admin/Project/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.dll
+/home/admin/Project/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.pdb
+/home/admin/Project/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.csproj.CoreCompileInputs.cache
+/home/admin/Project/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.AssemblyInfoInputs.cache
+/home/admin/Project/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.AssemblyInfo.cs
+/home/admin/Project/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.dll
+/home/admin/Project/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.pdb
