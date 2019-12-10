@@ -1,0 +1,11 @@
+/home/workstation/Project/appdotnetcore/appdotnetcore/bin/Debug/netcoreapp3.1/appdotnetcore
+/home/workstation/Project/appdotnetcore/appdotnetcore/bin/Debug/netcoreapp3.1/appdotnetcore.deps.json
+/home/workstation/Project/appdotnetcore/appdotnetcore/bin/Debug/netcoreapp3.1/appdotnetcore.runtimeconfig.json
+/home/workstation/Project/appdotnetcore/appdotnetcore/bin/Debug/netcoreapp3.1/appdotnetcore.runtimeconfig.dev.json
+/home/workstation/Project/appdotnetcore/appdotnetcore/bin/Debug/netcoreapp3.1/appdotnetcore.dll
+/home/workstation/Project/appdotnetcore/appdotnetcore/bin/Debug/netcoreapp3.1/appdotnetcore.pdb
+/home/workstation/Project/appdotnetcore/appdotnetcore/obj/Debug/netcoreapp3.1/appdotnetcore.csprojAssemblyReference.cache
+/home/workstation/Project/appdotnetcore/appdotnetcore/obj/Debug/netcoreapp3.1/appdotnetcore.AssemblyInfoInputs.cache
+/home/workstation/Project/appdotnetcore/appdotnetcore/obj/Debug/netcoreapp3.1/appdotnetcore.AssemblyInfo.cs
+/home/workstation/Project/appdotnetcore/appdotnetcore/obj/Debug/netcoreapp3.1/appdotnetcore.dll
+/home/workstation/Project/appdotnetcore/appdotnetcore/obj/Debug/netcoreapp3.1/appdotnetcore.pdb
